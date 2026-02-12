@@ -10,13 +10,9 @@ A simple Python script that removes the ugly shortcut overlay arrows from your d
 
 **Before → After:**
 
-```
- ┌──────────┐      ┌──────────┐
- │  Chrome  │      │  Chrome  │
- │   icon   │  →   │   icon   │
- │ 🔗 arrow │      │ no arrow │
- └──────────┘      └──────────┘
-```
+
+![Before and After](https://media.discordapp.net/attachments/1471504359249678379/1471505559122346146/image2.jpg?ex=698f2dd8&is=698ddc58&hm=dfb1697950342c159fbe9543e6b9a6343c29c174aba2d3163ce153c4a3727e9a&=&format=webp)
+
 
 ## How It Works
 
